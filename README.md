@@ -1,2 +1,2 @@
 # notable
-Api for those CRUDing notes.
+Api for CRUD operations on notes.
